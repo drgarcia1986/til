@@ -9,9 +9,13 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 
 ### Categorias
 
+* [Concorrência](#concorrência)
 * [Sistemas distribuídos](#sistemas-distribuidos)
 
 ---
+
+### Concorrência
+- [Fan-In e Fan-Out](./concorrencia/fan-in-e-fan-out.md)
 
 ### Sistemas Distribuidos
 - [Padrão de arquitetura POD](./sistemas-distribuidos/padrao-pod.md)
