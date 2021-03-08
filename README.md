@@ -20,3 +20,4 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 ### Sistemas Distribuidos
 - [Padrão de arquitetura POD](./sistemas-distribuidos/padrao-pod.md)
 - [Use monotonic ao invés de tempos baseados em epoch para medir a duração de um processamento](./sistemas-distribuidos/use-monotonic-ao-inves-de-time-of-day.md)
+- [Logical Timers e ordem de eventos](./sistemas-distribuidos/logical-timers-e-ordem-de-eventos.md)
