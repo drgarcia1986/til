@@ -30,6 +30,8 @@ Esse padrão é utilizado no Kubernentes com o mesmo nome de [POD](https://cloud
 porém no k8s esse padrão é utilizado para representar uma única réplica de uma aplicação, enquanto que o padrão
 pode ser utilizado para representar a abstração de uma solução de software completa e complexa.
 
+> O padrão pode ser reconhecido também pelo nome de [cell](http://highscalability.com/blog/2012/5/9/cell-architectures.html)
+
 ## Referências
 * [Egnyte Architecture](http://highscalability.squarespace.com/blog/2019/11/25/egnyte-architecture-lessons-learned-in-building-and-scaling.html)
 * [Better Data Center Standardization Through Pod Architecture Design](https://www.networkcomputing.com/data-centers/better-data-centers-standardization-through-pod-architecture-design)
