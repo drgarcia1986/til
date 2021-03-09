@@ -8,11 +8,12 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 ---
 
 ### Categorias
-
+* [Arquitetura de Software](#arquitetura-de-software)
 * [Concorrência](#concorrência)
 * [Sistemas distribuídos](#sistemas-distribuidos)
 
----
+### Arquitetura de Software
+- [Taxonomia de Serviços](./arquitetura/taxonomia-de-servicos.md)
 
 ### Concorrência
 - [Fan-In e Fan-Out](./concorrencia/fan-in-e-fan-out.md)
