@@ -15,6 +15,7 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 ### Arquitetura de Software
 - [Taxonomia de Serviços](./arquitetura/taxonomia-de-servicos.md)
 - [Watch Notification Pattern](./arquitetura/watch-notification-pattern.md)
+- [Thundering Herd Problem](./arquitetura/thundering-herd-problem.md)
 
 ### Concorrência
 - [Fan-In e Fan-Out](./concorrencia/fan-in-e-fan-out.md)
