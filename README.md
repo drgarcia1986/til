@@ -10,7 +10,10 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 ### Categorias
 * [Arquitetura de Software](#arquitetura-de-software)
 * [Concorrência](#concorrência)
+* [Python](#python)
 * [Sistemas distribuídos](#sistemas-distribuidos)
+
+---
 
 ### Arquitetura de Software
 - [Taxonomia de Serviços](./arquitetura/taxonomia-de-servicos.md)
@@ -19,6 +22,9 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 
 ### Concorrência
 - [Fan-In e Fan-Out](./concorrencia/fan-in-e-fan-out.md)
+
+### Python
+- [Método \_missing\_ em Enums](./python/metodo-missing-em-enums.md)
 
 ### Sistemas Distribuidos
 - [Padrão de arquitetura POD](./sistemas-distribuidos/padrao-pod.md)
