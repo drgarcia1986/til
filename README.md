@@ -25,6 +25,7 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 
 ### Python
 - [Método \_missing\_ em Enums](./python/metodo-missing-em-enums.md)
+- [Usando semáforo em códigos async](./python/async-semaphore.md)
 
 ### Sistemas Distribuidos
 - [Padrão de arquitetura POD](./sistemas-distribuidos/padrao-pod.md)
