@@ -10,6 +10,7 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 ### Categorias
 * [Arquitetura de Software](#arquitetura-de-software)
 * [Concorrência](#concorrência)
+* [Linux](#linux)
 * [Python](#python)
 * [Sistemas distribuídos](#sistemas-distribuidos)
 
@@ -23,6 +24,8 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 ### Concorrência
 - [Fan-In e Fan-Out](./concorrencia/fan-in-e-fan-out.md)
 
+### Linux
+- [Renomar o hostname](./linux/renomear-hostname.md)
 ### Python
 - [Método \_missing\_ em Enums](./python/metodo-missing-em-enums.md)
 - [Usando semáforo em códigos async](./python/async-semaphore.md)
