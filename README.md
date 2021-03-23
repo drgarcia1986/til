@@ -25,7 +25,9 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 - [Fan-In e Fan-Out](./concorrencia/fan-in-e-fan-out.md)
 
 ### Linux
+- [Pegando informações sobre janelas do X](./linux/x-window-info.md)
 - [Renomar o hostname](./linux/renomear-hostname.md)
+
 ### Python
 - [Método \_missing\_ em Enums](./python/metodo-missing-em-enums.md)
 - [Usando semáforo em códigos async](./python/async-semaphore.md)
