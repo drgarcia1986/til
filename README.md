@@ -13,6 +13,7 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 * [Golang](#golang)
 * [Linux](#linux)
 * [Python](#python)
+* [Shell Script](#shell-script)
 * [Sistemas distribuídos](#sistemas-distribuidos)
 
 ---
@@ -35,6 +36,9 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 ### Python
 - [Método \_missing\_ em Enums](./python/metodo-missing-em-enums.md)
 - [Usando semáforo em códigos async](./python/async-semaphore.md)
+
+### Shell Script
+- [Regex em validações](./shell-script/regex-em-validacoes.md)
 
 ### Sistemas Distribuidos
 - [Padrão de arquitetura POD](./sistemas-distribuidos/padrao-pod.md)
