@@ -31,6 +31,7 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 
 ### Linux
 - [Criando um serviço do Systemd](./linux/systemd-service.md)
+- [Exit Codes a partir de 128](./linux/exit-codes-128.md)
 - [Pegando informações sobre janelas do X](./linux/x-window-info.md)
 - [Renomar o hostname](./linux/renomear-hostname.md)
 
