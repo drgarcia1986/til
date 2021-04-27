@@ -11,6 +11,7 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 * [Arquitetura de Software](#arquitetura-de-software)
 * [Concorrência](#concorrência)
 * [Golang](#golang)
+* [Kubernetes](#kubernetes)
 * [Linux](#linux)
 * [Python](#python)
 * [Shell Script](#shell-script)
@@ -28,6 +29,9 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 
 ### Golang
 - [Compilando para Raspberry Pi](./golang/compilando-para-rasp.md)
+
+### Kubernetes
+- [Rodar um pod com client para Postgres](./kubernetes/rodar-um-pod-com-client-para-postgres.md)
 
 ### Linux
 - [Criando um serviço do Systemd](./linux/systemd-service.md)
