@@ -32,6 +32,7 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 
 ### Kubernetes
 - [Rodar um pod com client para Postgres](./kubernetes/rodar-um-pod-com-client-para-postgres.md)
+- [Criando e recuperando um dump do Postgres](./kubernetes/criando-e-recuperando-um-dump-do-postgres.md)
 
 ### Linux
 - [Criando um serviço do Systemd](./linux/systemd-service.md)
