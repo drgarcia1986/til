@@ -11,10 +11,17 @@ Feito isso, gere um _tar.gz_ do backup com o comando:
 $ tar cvzf <DESTINO> <ARQUIVO DO DUMP>
 ```
 
-E por fim, para recuperar esse arquivo, basta utilizar o comando `kubectl cp`:
+Para recuperar esse arquivo, basta utilizar o comando `kubectl cp`:
 ```
 $ kubectl cp <NOME DO POD>:<PATH DO ARQUIVO> <DESTINO> -n <NAMESPACE>
 ```
+
+E por fim, para fazer o restore:
+```
+$ psql -h <HOST> -U <USER> -d <DATABASE> -f <PATH DO DUMP>
+```
+
+É necessário fazer o drop/create database antes.
 
 ## Referências
 - [pg_dump](https://www.postgresql.org/docs/12/app-pgdump.html)
