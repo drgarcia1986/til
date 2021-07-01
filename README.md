@@ -10,6 +10,7 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 ### Categorias
 * [Arquitetura de Software](#arquitetura-de-software)
 * [Concorrência](#concorrência)
+* [Git](#git)
 * [Golang](#golang)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -27,6 +28,9 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 
 ### Concorrência
 - [Fan-In e Fan-Out](./concorrencia/fan-in-e-fan-out.md)
+
+### Git
+- [Restaurando o conteudo de um diretório se baseando em uma branch](./git/restore.md)
 
 ### Golang
 - [Compilando para Raspberry Pi](./golang/compilando-para-rasp.md)
