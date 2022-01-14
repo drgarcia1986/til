@@ -48,6 +48,7 @@ Uma coleção de pequenas coisas que aprendi dia a após dia em diferentes área
 ### Python
 - [Método \_missing\_ em Enums](./python/metodo-missing-em-enums.md)
 - [Usando semáforo em códigos async](./python/async-semaphore.md)
+- [Como criar queries a partir de argumentos de um método](./python/query-dsl.md)
 
 ### Shell Script
 - [Regex em validações](./shell-script/regex-em-validacoes.md)
